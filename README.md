@@ -1,5 +1,6 @@
 # 比比辣卜
 
+## 有需要和想法还有bug什么的直接issue
 HarmonyOS NEXT 上的 CS2（CS:GO）饰品行情工具。工程名 SkinDeck，包名 `com.skindeck.point`。
 
 ## 这个 App 干什么
