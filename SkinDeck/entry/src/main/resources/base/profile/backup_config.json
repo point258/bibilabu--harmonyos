@@ -1,9 +1,0 @@
-{
-  "allowToBackupRestore": true,
-  "extraInfo": {
-    "exclude": [
-      "webcache",
-      "cache"
-    ]
-  }
-}
