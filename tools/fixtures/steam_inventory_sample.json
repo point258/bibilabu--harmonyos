@@ -1,0 +1,55 @@
+{
+  "assets": [
+    { "appid": 730, "contextid": "2", "assetid": "A1", "classid": "1001", "instanceid": "302028390", "amount": "1" },
+    { "appid": 730, "contextid": "2", "assetid": "A2", "classid": "1002", "instanceid": "302028390", "amount": "1" },
+    { "appid": 730, "contextid": "2", "assetid": "A3", "classid": "1003", "instanceid": "0", "amount": "3" },
+    { "appid": 730, "contextid": "2", "assetid": "A4", "classid": "9999", "instanceid": "0", "amount": "1" }
+  ],
+  "descriptions": [
+    {
+      "appid": 730,
+      "classid": "1001",
+      "instanceid": "302028390",
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM",
+      "tradable": 1,
+      "marketable": 1,
+      "name": "Tec-9 | 蓝爆",
+      "market_hash_name": "Tec-9 | Blue Blast (Minimal Wear)",
+      "tags": [
+        { "category": "Type", "internal_name": "CSGO_Type_Pistol", "localized_tag_name": "手枪" },
+        { "category": "Rarity", "internal_name": "Rarity_Common_Weapon", "localized_tag_name": "消费级" },
+        { "category": "Exterior", "internal_name": "WearCategory1", "localized_tag_name": "略有磨损" }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "1002",
+      "instanceid": "302028390",
+      "icon_url": "https://community.cloudflare.steamstatic.com/economy/image/abs",
+      "tradable": 1,
+      "marketable": 1,
+      "name": "SSG 08 | 绿陶",
+      "market_hash_name": "SSG 08 | Green Ceramic (Minimal Wear)",
+      "tags": [
+        { "category": "Rarity", "internal_name": "Rarity_Rare_Weapon", "localized_tag_name": "军规级" },
+        { "category": "Exterior", "internal_name": "WearCategory2", "localized_tag_name": "久经沙场" }
+      ]
+    },
+    {
+      "appid": 730,
+      "classid": "1003",
+      "instanceid": "0",
+      "icon_url": "i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJWk3k",
+      "tradable": 0,
+      "marketable": 0,
+      "name": "印花 | 滋味儿",
+      "market_hash_name": "Sticker | Taste Bud",
+      "tags": [
+        { "category": "Rarity", "internal_name": "Rarity_Rare", "localized_tag_name": "高级" }
+      ]
+    }
+  ],
+  "total_inventory_count": 5,
+  "success": 1,
+  "rwgrsn": -2
+}

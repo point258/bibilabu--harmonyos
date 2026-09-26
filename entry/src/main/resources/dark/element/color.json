@@ -1,0 +1,32 @@
+{
+  "color": [
+    { "name": "start_window_background", "value": "#101114" },
+    { "name": "page_bg", "value": "#000000" },
+    { "name": "surface_bg", "value": "#1C1C1E" },
+    { "name": "surface_elevated", "value": "#2A2A2E" },
+    { "name": "surface_sunken", "value": "#151517" },
+    { "name": "brand_primary", "value": "#3B7BFF" },
+    { "name": "brand_on", "value": "#FFFFFF" },
+    { "name": "brand_soft", "value": "#333B7BFF" },
+    { "name": "text_primary", "value": "#E5E5E7" },
+    { "name": "text_secondary", "value": "#A0A0A5" },
+    { "name": "text_tertiary", "value": "#6E6E73" },
+    { "name": "divider", "value": "#1FFFFFFF" },
+    { "name": "hds_title_bar_scrolled_bg", "value": "#BF17191D" },
+    { "name": "glass_panel", "value": "#33FFFFFF" },
+    { "name": "glass_border", "value": "#1FFFFFFF" },
+    { "name": "glass_shadow", "value": "#40000000" },
+    { "name": "price_up", "value": "#F09595" },
+    { "name": "price_down", "value": "#5DCAA5" },
+    { "name": "price_flat", "value": "#B4B2A9" },
+    { "name": "tag_bg", "value": "#2C2C2A" },
+    { "name": "tag_fg", "value": "#B4B2A9" },
+    { "name": "chart_line", "value": "#3B7BFF" },
+    { "name": "chart_fill", "value": "#333B7BFF" },
+    { "name": "chart_grid", "value": "#1FFFFFFF" },
+    { "name": "scrim", "value": "#66000000" },
+    { "name": "on_image_fg", "value": "#FFFFFF" },
+    { "name": "warn_bg", "value": "#3A2E14" },
+    { "name": "warn_fg", "value": "#FAC775" }
+  ]
+}
